@@ -1,7 +1,7 @@
 Project Name
 
 Demo
-https://github.com/user-attachments/assets/f97c6b95-bd65-4168-b76f-108fecfc7855
+![Demo]https://github.com/user-attachments/assets/f97c6b95-bd65-4168-b76f-108fecfc7855
 
 Provide a link to a video or GIF demonstrating the main features of your prototype.
 
