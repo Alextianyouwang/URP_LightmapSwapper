@@ -1,8 +1,7 @@
 # Real time lightmap swapper for Unity
+![ezgif-1-159f9d2f53](https://github.com/user-attachments/assets/e90ef96a-30f9-41cf-9d99-5bde46abd85f)
 
-![ezgif-1-159f9d2f53](https://github.com/user-attachments/assets/b1ac02ce-d308-4fcb-b7ec-15a2d5f8cfe3)
-
-Asset credit： Hyun Jun Song & Minsic 
+Assets credit： Hyun Jun Song & Minsic 
 
 2 Workspace scenes and 1 Composition scene are used in this project. They are:
 - Main
@@ -42,3 +41,15 @@ Step 2: Hook-up runtime logic
 
 
 Step 3: Enter play mode, use the number key to enjoy your scene
+
+---
+
+Copyright <2024> <Tianyou Wang (Alex)>
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+
